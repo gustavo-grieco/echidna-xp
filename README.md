@@ -17,7 +17,7 @@ Additionally, this fork aims to:
 * Enable extensive benchmarking with real fuzzing campaigns  
 * Reduce code complexity and remove legacy or unused features
 
-All code developed here will eventually be merged [upstream](https://github.com/crytic/echidna) and made available in official releases. You can see [here the list of all PRs from this fork](https://github.com/crytic/echidna/pulls?q=is%3Apr+author%3Agustavo-grieco+sort%3Aupdated-desc).
+All code developed here will eventually be merged [upstream](https://github.com/crytic/echidna) and made available in official releases. You can see [here the list of all the PRs from this fork](https://github.com/crytic/echidna/pulls?q=is%3Apr+author%3Agustavo-grieco+sort%3Aupdated-desc+created%3A%3E%3D2025-05-01).
 
 ## Funding
 
